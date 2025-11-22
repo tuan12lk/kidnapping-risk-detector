@@ -1,0 +1,5 @@
+{
+  "name": "GuardianEye - Child Safety Risk Analyzer",
+  "description": "An AI-powered tool using Gemini 2.5 Flash to analyze text conversations for potential kidnapping risks, grooming threats, and safety concerns.",
+  "requestFramePermissions": []
+}
